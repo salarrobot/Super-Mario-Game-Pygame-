@@ -1,0 +1,60 @@
+{
+ "name": "Sky Fortress",
+ "theme": "dusk",
+ "music": "level3",
+ "time_limit": 360,
+ "map": [
+  "                                                                                                                                                      ",
+  "                                                                                                                                                      ",
+  "                                                                                                                                                      ",
+  "                                                                                                                                                      ",
+  "                                                                                                                                                      ",
+  "                                                      f  f                                                                                            ",
+  "                                                    ooooooo                                                                                           ",
+  "                                                    =======                                                                      U                    ",
+  "                BBBB      f                    f                              ooooooo   f f                                     UU                    ",
+  "     M           oL            oooo          S              CCC               BB?BLBB                       S                  UUU                    ",
+  "      ooooo     BBBB             =                                                                            ooooo           UUUU                    ",
+  "                               =                                                                                             UUUUU                    ",
+  "  @     g  k          g g               p  g                  g k g                   k             g  g  k                 UUUUUU          F         ",
+  "XXXXXXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "DDDDDDDDDDDDDDD     DDDDDDDDDDD     DDDDDDDDDDDDDDD     DDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+ ],
+ "moving_platforms": [
+  {
+   "col": 15,
+   "row": 12,
+   "axis": "h",
+   "span": 4,
+   "speed": 2.4
+  },
+  {
+   "col": 51,
+   "row": 11,
+   "axis": "v",
+   "span": 3,
+   "speed": 1.8
+  },
+  {
+   "col": 72,
+   "row": 11,
+   "axis": "h",
+   "span": 4,
+   "speed": 2.6
+  },
+  {
+   "col": 94,
+   "row": 11,
+   "axis": "h",
+   "span": 3,
+   "speed": 2.4
+  },
+  {
+   "col": 118,
+   "row": 11,
+   "axis": "v",
+   "span": 4,
+   "speed": 2.0
+  }
+ ]
+}

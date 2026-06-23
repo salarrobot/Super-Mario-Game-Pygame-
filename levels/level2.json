@@ -1,0 +1,46 @@
+{
+ "name": "Cliffside Caves",
+ "theme": "dusk",
+ "music": "level2",
+ "time_limit": 320,
+ "map": [
+  "                                                                                                                                  ",
+  "                                                                                                                                  ",
+  "                                                                                                                                  ",
+  "                                                                                                                                  ",
+  "                                                                                                                                  ",
+  "                                                            oooLooo                                                               ",
+  "                                                            =======                                                               ",
+  "                     f                                                                                                            ",
+  "                                                       f                                    f                   U   U             ",
+  "      M             ooo       BBBB                        S                         CCC        ?               UU   UU            ",
+  "        ooooo       BBB                     =                                                                 UUU   UUU           ",
+  "                                           =                                                                 UUUU   UUUU          ",
+  "  @       g   k             g       k g           p g                 k                 g g                 UUUUU   UUUUU   F     ",
+  "XXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXXXXXX",
+  "DDDDDDDDDDDDDDDDDDD    DDDDDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDDDDDDDD     DDDDDDDDDDDDDDDDDDDDDDDD"
+ ],
+ "moving_platforms": [
+  {
+   "col": 41,
+   "row": 12,
+   "axis": "h",
+   "span": 4,
+   "speed": 2.0
+  },
+  {
+   "col": 74,
+   "row": 11,
+   "axis": "v",
+   "span": 4,
+   "speed": 1.6
+  },
+  {
+   "col": 102,
+   "row": 11,
+   "axis": "h",
+   "span": 3,
+   "speed": 2.2
+  }
+ ]
+}

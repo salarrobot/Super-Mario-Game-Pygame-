@@ -1,0 +1,32 @@
+{
+ "name": "Green Hills",
+ "theme": "day",
+ "music": "level1",
+ "time_limit": 300,
+ "map": [
+  "                                                                                                              ",
+  "                                                                                                              ",
+  "                                                                                                              ",
+  "                                                                                                              ",
+  "                                                                                                              ",
+  "                                                                                                              ",
+  "                                                  ooLooo                                                      ",
+  "                                                  ======                                                      ",
+  "                                                                              f                               ",
+  "          M ??          CBB oo                  =           oo    S                        U                  ",
+  "                                              =                                           UU                  ",
+  "      oooo                                  =                                            UUU                  ",
+  "   @            g   g               T   k               p           g   g               UUUU            F     ",
+  "XXXXXXXXXXXXXXXXXXXXXXXXXXX   XXXXXXIXXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "DDDDDDDDDDDDDDDDDDDDDDDDDDD   DDDDDDDDDDDDDDDDDDDDDDDDDDDDD   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+ ],
+ "moving_platforms": [
+  {
+   "col": 31,
+   "row": 11,
+   "axis": "h",
+   "span": 3,
+   "speed": 1.4
+  }
+ ]
+}
