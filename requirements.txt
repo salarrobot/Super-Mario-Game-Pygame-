@@ -1,0 +1,7 @@
+# Core game engine
+pygame>=2.5.0
+
+# Used by the procedural sound/asset generators to synthesize audio waveforms.
+# The game still runs without numpy (audio simply becomes silent), but it is
+# strongly recommended for the full experience.
+numpy>=1.24.0
